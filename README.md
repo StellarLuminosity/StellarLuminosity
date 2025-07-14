@@ -52,11 +52,12 @@ Computer Scientist with a focus on Machine Learning, passionate about developing
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
 
 
-
+<!-- 
 ## 📈 GitHub Stats
-
+<p align="center">
 <img src="https://github.com/StellarLuminosity/StellarLuminosity/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar" />
+</p>
 
-<br>
+<br> -->
 
 
