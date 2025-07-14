@@ -55,7 +55,7 @@ Computer Scientist with a focus on Machine Learning, passionate about developing
 
 ## 📈 GitHub Stats
 
-<img src="https://github.com/StellarLuminosity/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar" />
+<img src="https://github.com/StellarLuminosity/StellarLuminosity/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar" />
 
 <br>
 
