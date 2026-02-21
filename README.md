@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=800\&color=F7F7F7\&center=true\&repeat=false\&width=1200\&lines=Hi%2C+I'm+Katherine.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=800\&color=F7F7F7\&center=true\&repeat=false\&width=1200\&lines=Hi%2C+I'm+Katherine+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="center">
   <strong>AI Engineer · ML Researcher · Systems Builder</strong>
